@@ -2,3 +2,5 @@ ustawy
 *sgjp-20221023.tab
 
 *.ipynb_checkpoints
+
+*lab4/lemmatized_corpus
