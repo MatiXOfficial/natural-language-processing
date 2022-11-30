@@ -3,4 +3,5 @@ ustawy
 
 *.ipynb_checkpoints
 
-*lab4/lemmatized_corpus
+lab4/lemmatized_corpus
+lab6/dataset
