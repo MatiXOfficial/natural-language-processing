@@ -3,9 +3,12 @@ ustawy
 
 *.ipynb_checkpoints
 
+*.db
+
 lab4/lemmatized_corpus
 lab6/dataset
 lab6/transformers
 lab7/lematized_corpus
 lab7/lpmn_corpus
-
+lab8/mlruns
+lab8/faiss
